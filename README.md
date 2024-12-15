@@ -1,3 +1,5 @@
+https://youtu.be/EJ_ZCdOqg4g?list=PLrDJyIDOBVHd_ENljBmzyq4WcWJUrfCOg
+
 - Swift - SwiftUI
 - JSON API
 - Decode - Encode
