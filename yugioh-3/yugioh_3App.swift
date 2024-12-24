@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct yugioh_3App: App {
+    
+    
+    var order = Order()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FrameworkTabView().environmentObject(order)
         }
     }
 }
